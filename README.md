@@ -1,19 +1,5 @@
-# 👋 Hi, I'm Zahra Heidari
-
-🎓 M.Sc. graduate in Control Engineering from Iran University of Science and Technology (IUST).  
-🔬 Researcher in intelligent control systems with a focus on **Deep Reinforcement Learning** and **Robotics**.
-
-🌱 Currently exploring:
-- DRL-based control for energy and renewable systems  
-- Autonomous and adaptive control strategies  
-- MATLAB, Python, and ROS-based simulations  
-- Machine vision and image processing applications
-
-📁 Featured Projects:
-- Quantum-Inspired Deep Reinforcement Learning for Wind Turbines  
-- Nonlinear Control for Pipe Inspection Robots  
-- Sensor Fusion using Kalman Filtering and Vision-based Estimation  
-
-📫 Reach me at:
-- 📧 zahraheidarihafshejani@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zahraheidari-/)  
+👋 Hi, I’m ZahraHeidari, an M.Sc. graduate in Control Engineering from IUST, working on Intelligent Control Systems using Deep Reinforcement Learning (DRL).
+👀 I’m interested in Robotics, Autonomous Systems, Computer Vision, and Learning-based Control.
+🌱 I’m currently working on DRL-based control for Wind Turbines and Monocular Depth Estimation for Autonomous Vehicles.
+💞️ The Hobby Project: Simulation of robots with MATLAB and ROS-based environments.
+📫 How to reach me: zahraheidarihafshejani@gmail.com | https://www.linkedin.com/in/zahraheidari-/
