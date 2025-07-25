@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Zahra Heidari
 
-<!--
-**zahraheidarihafshejani/zahraheidarihafshejani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. graduate in Control Engineering from Iran University of Science and Technology (IUST).  
+🔬 Researcher in intelligent control systems with a focus on **Deep Reinforcement Learning** and **Robotics**.
 
-Here are some ideas to get you started:
+🌱 Currently exploring:
+- DRL-based control for energy and renewable systems  
+- Autonomous and adaptive control strategies  
+- MATLAB, Python, and ROS-based simulations  
+- Machine vision and image processing applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Featured Projects:
+- Quantum-Inspired Deep Reinforcement Learning for Wind Turbines  
+- Nonlinear Control for Pipe Inspection Robots  
+- Sensor Fusion using Kalman Filtering and Vision-based Estimation  
+
+📫 Reach me at:
+- 📧 zahraheidarihafshejani@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zahraheidari-/)  
